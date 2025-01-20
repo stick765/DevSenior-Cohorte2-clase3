@@ -14,10 +14,10 @@ public class ejercicio10 {
        System.out.println("Ingrese el tercer número: ");
        double numero3 = scanner.nextDouble();
        
-       // Calcular la media
+       
        double media = (numero1 + numero2 + numero3) / 3;
        
-       // Mostrar el resultado
+       
        System.out.println("\nLa media aritmética de los números " + 
                          numero1 + ", " + numero2 + " y " + numero3 + 
                          " es: " + media);
